@@ -1,3 +1,3 @@
 # just-answer-for-c-
 
-sss
+c++ answer
